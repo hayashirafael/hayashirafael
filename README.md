@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashirafael&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- #### Languages & Frameworks
+ 
  
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
