@@ -1,4 +1,4 @@
-### Hi there! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+### Hi there! 
  <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashirafael&layout=compact&langs_count=7&theme=dark"/>
