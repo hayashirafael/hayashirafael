@@ -1,8 +1,4 @@
 ### Hi there! 
- <div>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashirafael&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 <div style="display: inline_block">
  <img align="center" alt="React Native" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> - 
@@ -15,6 +11,5 @@
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 
 </div>
- 
-<div> 
+
 
